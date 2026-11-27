@@ -3,3 +3,6 @@ create or replace table
     col2 vachc
     co3,
     col4
+    Sdfsfs
+    sdfsdf
+    sdfaf
